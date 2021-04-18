@@ -1,0 +1,8 @@
+# Folders
+artifacts
+cache
+node_modules
+
+# Secrets file for deploying
+secrets-mainnet.js
+secrets-testnet.js
